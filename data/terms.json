@@ -75,49 +75,49 @@
     "id": "pflanzenzelle",
     "term": "Pflanzenzelle",
     "definition": "Zelle mit Zellwand, Zellmembran und großer Vakuole.",
-    "topics": ["Pflanzenzelle", "Plasmolyse und Deplasmolyse"]
+    "topics": ["Plasmolyse und Deplasmolyse"]
   },
   {
     "id": "zellwand",
     "term": "Zellwand",
     "definition": "Feste äußere Struktur der Pflanzenzelle.",
-    "topics": ["Pflanzenzelle", "Plasmolyse und Deplasmolyse"]
+    "topics": ["Plasmolyse und Deplasmolyse"]
   },
   {
     "id": "zellmembran",
     "term": "Zellmembran",
     "definition": "Biomembran, die das Zellinnere abgrenzt.",
-    "topics": ["Pflanzenzelle", "Biomembran", "Plasmolyse und Deplasmolyse"]
+    "topics": ["Biomembran", "Plasmolyse und Deplasmolyse"]
   },
   {
     "id": "cytoplasma",
     "term": "Cytoplasma",
     "definition": "Grundsubstanz im Zellinneren.",
-    "topics": ["Pflanzenzelle", "Plasmolyse und Deplasmolyse"]
+    "topics": ["Plasmolyse und Deplasmolyse"]
   },
   {
     "id": "vakuole",
     "term": "Vakuole",
     "definition": "Großer Flüssigkeitsraum in Pflanzenzellen.",
-    "topics": ["Pflanzenzelle", "Plasmolyse und Deplasmolyse"]
+    "topics": ["Plasmolyse und Deplasmolyse"]
   },
   {
     "id": "zellsaft",
     "term": "Zellsaft",
     "definition": "Flüssigkeit in der Vakuole.",
-    "topics": ["Pflanzenzelle", "Plasmolyse und Deplasmolyse"]
+    "topics": ["Plasmolyse und Deplasmolyse"]
   },
   {
     "id": "tonoplast",
     "term": "Tonoplast",
     "definition": "Membran der Vakuole.",
-    "topics": ["Pflanzenzelle", "Biomembran", "Plasmolyse und Deplasmolyse"]
+    "topics": ["Biomembran", "Plasmolyse und Deplasmolyse"]
   },
   {
     "id": "turgor",
     "term": "Turgor",
     "definition": "Druck des Zellinhalts gegen die Zellwand.",
-    "topics": ["Pflanzenzelle", "Plasmolyse und Deplasmolyse"]
+    "topics": ["Plasmolyse und Deplasmolyse"]
   },
   {
     "id": "plasmolyse",
@@ -135,7 +135,7 @@
     "id": "protoplast",
     "term": "Protoplast",
     "definition": "Zellinhalt ohne Zellwand.",
-    "topics": ["Pflanzenzelle", "Plasmolyse und Deplasmolyse"]
+    "topics": ["Plasmolyse und Deplasmolyse"]
   },
   {
     "id": "hypertonische_loesung",
