@@ -32,7 +32,7 @@ async function init() {
   loadProgress();
 
   try {
-    const response = await fetch("data/terms.json");
+    const response = await fetch("data/terms.json?v=3", { cache: "no-store" });
     if (!response.ok) {
       throw new Error("Terms file could not be loaded.");
     }
