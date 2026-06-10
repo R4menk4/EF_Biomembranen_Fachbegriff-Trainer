@@ -333,14 +333,18 @@ h2 {
 }
 
 .flashcard-button {
+  display: block;
   width: min(760px, 100%);
   min-height: clamp(340px, 52vh, 500px);
   padding: 0;
   background: transparent;
+  border-radius: 8px;
+  cursor: pointer;
   perspective: 1400px;
 }
 
 .flashcard-inner {
+  display: block;
   position: relative;
   width: 100%;
   min-height: inherit;
